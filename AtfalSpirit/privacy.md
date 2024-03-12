@@ -6,7 +6,7 @@ AtfalSpirit is a mobile application designed for parents to track academic activ
 
 - First Name
 - Last Name
-- Aim ID (given to every member of the Ahmadiyya Association in the UK)
+- Aim ID (given to every member of the Ahmadiyya Muslim Community in the UK)
 - Email
 - Password
 
@@ -22,7 +22,7 @@ A public leaderboard displays the combined scores of Atfal, showing their full n
 
 ### Aim ID and Data Sharing
 
-Aim ID is collected for member identification, ensuring only members of the Ahmadiyya Association can use the app. All user data can be shared with the Ahmadiyya Association upon demand.
+Aim ID is collected for member identification, ensuring only members of the Ahmadiyya Muslim Community can use the app. All user data can be shared with the Ahmadiyya Muslim Community upon demand.
 
 ## Data Retention
 
