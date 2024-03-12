@@ -20,13 +20,13 @@ The app allows parents to track Salat (Muslim prayer) offerings for each Atfal. 
 ### Leaderboard
 A public leaderboard displays the combined scores of Atfal, showing their full names (first name + last name).
 
-## Aim ID and Data Sharing
+### Aim ID and Data Sharing
 
 Aim ID is collected for member identification, ensuring only members of the Ahmadiyya Association can use the app. All user data can be shared with the Ahmadiyya Association upon demand.
 
 ## Data Retention
 
-User data is retained until Atfal reach the age of 15. Future releases will include a data removal feature. Data can also be removed on demand.
+User data is retained until Atfal reach the age of 15, after this their data is retained for about 6 months. Future releases will include a data removal feature. Data can also be removed on demand by reaching out to [nottingham@atfal.co.uk](mailto:nottingham@atfal.co.uk).
 
 ## Policy Changes
 
@@ -34,5 +34,4 @@ As of now, there is no process to inform users about policy changes. This featur
 
 For any inquiries or requests, please contact [nottingham@atfal.co.uk](mailto:nottingham@atfal.co.uk).
 
-*Last Updated: 09 March 2024*
-
+*Last Updated: 12 March 2024*
